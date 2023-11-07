@@ -1,0 +1,6 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Multiplication table\Multiplication table\bin\Debug\Multiplication table.exe.config
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Multiplication table\Multiplication table\bin\Debug\Multiplication table.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Multiplication table\Multiplication table\bin\Debug\Multiplication table.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Multiplication table\Multiplication table\obj\Debug\Multiplication table.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Multiplication table\Multiplication table\obj\Debug\Multiplication table.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Multiplication table\Multiplication table\obj\Debug\Multiplication table.pdb

@@ -1,0 +1,6 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Clock\Clock\bin\Debug\Clock.exe.config
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Clock\Clock\bin\Debug\Clock.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Clock\Clock\bin\Debug\Clock.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Clock\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Clock\Clock\obj\Debug\Clock.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Clock\Clock\obj\Debug\Clock.pdb

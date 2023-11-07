@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weather forecast", "Weather forecast\Weather forecast.csproj", "{20A8475C-97C5-4EAB-9E83-E10159BD60AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catch the thief", "Catch the thief\Catch the thief.csproj", "{0E9A97A2-2381-47F9-A583-20EC381380BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20A8475C-97C5-4EAB-9E83-E10159BD60AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A8475C-97C5-4EAB-9E83-E10159BD60AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A8475C-97C5-4EAB-9E83-E10159BD60AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A8475C-97C5-4EAB-9E83-E10159BD60AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9A97A2-2381-47F9-A583-20EC381380BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9A97A2-2381-47F9-A583-20EC381380BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9A97A2-2381-47F9-A583-20EC381380BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9A97A2-2381-47F9-A583-20EC381380BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {257C258A-B62D-4687-8A19-B278607A0C3D}
+	EndGlobalSection
+EndGlobal

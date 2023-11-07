@@ -1,0 +1,12 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\bin\Debug\netcoreapp3.1\4. Поток от символи.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\bin\Debug\netcoreapp3.1\4. Поток от символи.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\bin\Debug\netcoreapp3.1\4. Поток от символи.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\bin\Debug\netcoreapp3.1\4. Поток от символи.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\bin\Debug\netcoreapp3.1\4. Поток от символи.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\bin\Debug\netcoreapp3.1\4. Поток от символи.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\obj\Debug\netcoreapp3.1\4. Поток от символи.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\obj\Debug\netcoreapp3.1\4. Поток от символи.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\obj\Debug\netcoreapp3.1\4. Поток от символи.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\obj\Debug\netcoreapp3.1\4. Поток от символи.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\obj\Debug\netcoreapp3.1\4. Поток от символи.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\4. Поток от символи\obj\Debug\netcoreapp3.1\4. Поток от символи.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\bin\Debug\netcoreapp3.1\1. Асансьор.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\bin\Debug\netcoreapp3.1\1. Асансьор.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\bin\Debug\netcoreapp3.1\1. Асансьор.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\bin\Debug\netcoreapp3.1\1. Асансьор.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\bin\Debug\netcoreapp3.1\1. Асансьор.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\bin\Debug\netcoreapp3.1\1. Асансьор.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\obj\Debug\netcoreapp3.1\1. Асансьор.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\obj\Debug\netcoreapp3.1\1. Асансьор.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\obj\Debug\netcoreapp3.1\1. Асансьор.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\obj\Debug\netcoreapp3.1\1. Асансьор.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\obj\Debug\netcoreapp3.1\1. Асансьор.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\obj\Debug\netcoreapp3.1\1. Асансьор.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\1. Асансьор\obj\Debug\netcoreapp3.1\1. Асансьор.genruntimeconfig.cache

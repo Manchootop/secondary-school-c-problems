@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.  Конзолен конвертор - от радиани в градуси", "\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\1.  Конзолен конвертор - от радиани в градуси\1.  Конзолен конвертор - от радиани в градуси.csproj", "{404C37A9-6601-4D81-90A3-1532182D997C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Калкулатор депозити", "\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\2. Калкулатор депозити.csproj", "{418D038F-6210-49BB-85BF-D5B71EDB5BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{404C37A9-6601-4D81-90A3-1532182D997C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404C37A9-6601-4D81-90A3-1532182D997C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404C37A9-6601-4D81-90A3-1532182D997C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404C37A9-6601-4D81-90A3-1532182D997C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{418D038F-6210-49BB-85BF-D5B71EDB5BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418D038F-6210-49BB-85BF-D5B71EDB5BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418D038F-6210-49BB-85BF-D5B71EDB5BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418D038F-6210-49BB-85BF-D5B71EDB5BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499A8508-568F-4553-A25A-E77B3E64BA0A}
+	EndGlobalSection
+EndGlobal

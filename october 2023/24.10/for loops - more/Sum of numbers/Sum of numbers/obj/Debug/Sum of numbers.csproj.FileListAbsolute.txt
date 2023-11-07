@@ -1,0 +1,6 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Sum of numbers\Sum of numbers\bin\Debug\Sum of numbers.exe.config
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Sum of numbers\Sum of numbers\bin\Debug\Sum of numbers.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Sum of numbers\Sum of numbers\bin\Debug\Sum of numbers.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Sum of numbers\Sum of numbers\obj\Debug\Sum of numbers.pdb

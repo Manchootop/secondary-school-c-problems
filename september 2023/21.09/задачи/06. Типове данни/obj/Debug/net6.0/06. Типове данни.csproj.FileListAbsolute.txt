@@ -1,0 +1,5 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\06. Типове данни\obj\Debug\net6.0\06. Типове данни.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\06. Типове данни\obj\Debug\net6.0\06. Типове данни.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\06. Типове данни\obj\Debug\net6.0\06. Типове данни.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\06. Типове данни\obj\Debug\net6.0\06. Типове данни.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\06. Типове данни\obj\Debug\net6.0\06. Типове данни.csproj.CoreCompileInputs.cache

@@ -1,0 +1,4 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\03. heron\obj\Debug\netcoreapp3.1\03. heron.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\03. heron\obj\Debug\netcoreapp3.1\03. heron.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\03. heron\obj\Debug\netcoreapp3.1\03. heron.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\03. heron\obj\Debug\netcoreapp3.1\03. heron.csproj.CoreCompileInputs.cache

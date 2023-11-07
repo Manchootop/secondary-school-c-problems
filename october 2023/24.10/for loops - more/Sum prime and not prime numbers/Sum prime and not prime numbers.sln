@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum prime and not prime numbers", "\room309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Sum prime and not prime numbers\Sum prime and not prime numbers\Sum prime and not prime numbers.csproj", "{07D45695-724F-4F98-8577-F631A1893B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07D45695-724F-4F98-8577-F631A1893B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D45695-724F-4F98-8577-F631A1893B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D45695-724F-4F98-8577-F631A1893B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D45695-724F-4F98-8577-F631A1893B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B8F020-4CF1-4DF7-8993-CD525D1C9A11}
+	EndGlobalSection
+EndGlobal

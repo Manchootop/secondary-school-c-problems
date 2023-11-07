@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\bin\Debug\netcoreapp3.1\Dividing a number in two halves.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\bin\Debug\netcoreapp3.1\Dividing a number in two halves.deps.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\bin\Debug\netcoreapp3.1\Dividing a number in two halves.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\bin\Debug\netcoreapp3.1\Dividing a number in two halves.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\bin\Debug\netcoreapp3.1\Dividing a number in two halves.dll
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\bin\Debug\netcoreapp3.1\Dividing a number in two halves.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\obj\Debug\netcoreapp3.1\Dividing a number in two halves.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\obj\Debug\netcoreapp3.1\Dividing a number in two halves.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\obj\Debug\netcoreapp3.1\Dividing a number in two halves.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\obj\Debug\netcoreapp3.1\Dividing a number in two halves.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\obj\Debug\netcoreapp3.1\Dividing a number in two halves.dll
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\obj\Debug\netcoreapp3.1\Dividing a number in two halves.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Dividing a number in two halves\Dividing a number in two halves\obj\Debug\netcoreapp3.1\Dividing a number in two halves.genruntimeconfig.cache

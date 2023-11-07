@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\ROOM309\\V_Radeva\\11 г\\Мариянкътъ17\\октомври\\24.10\\for loops - more\\Histogram\\Histogram\\Histogram.csproj": {}
+  },
+  "projects": {
+    "\\\\ROOM309\\V_Radeva\\11 г\\Мариянкътъ17\\октомври\\24.10\\for loops - more\\Histogram\\Histogram\\Histogram.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\ROOM309\\V_Radeva\\11 г\\Мариянкътъ17\\октомври\\24.10\\for loops - more\\Histogram\\Histogram\\Histogram.csproj",
+        "projectName": "Histogram",
+        "projectPath": "\\\\ROOM309\\V_Radeva\\11 г\\Мариянкътъ17\\октомври\\24.10\\for loops - more\\Histogram\\Histogram\\Histogram.csproj",
+        "packagesPath": "C:\\Users\\Teacher\\.nuget\\packages\\",
+        "outputPath": "\\\\ROOM309\\V_Radeva\\11 г\\Мариянкътъ17\\октомври\\24.10\\for loops - more\\Histogram\\Histogram\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Teacher\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

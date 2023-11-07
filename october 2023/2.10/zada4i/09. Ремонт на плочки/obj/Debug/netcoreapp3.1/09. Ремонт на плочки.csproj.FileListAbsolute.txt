@@ -1,0 +1,12 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\bin\Debug\netcoreapp3.1\09. Ремонт на плочки.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\bin\Debug\netcoreapp3.1\09. Ремонт на плочки.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\bin\Debug\netcoreapp3.1\09. Ремонт на плочки.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\bin\Debug\netcoreapp3.1\09. Ремонт на плочки.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\bin\Debug\netcoreapp3.1\09. Ремонт на плочки.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\bin\Debug\netcoreapp3.1\09. Ремонт на плочки.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\obj\Debug\netcoreapp3.1\09. Ремонт на плочки.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\obj\Debug\netcoreapp3.1\09. Ремонт на плочки.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\obj\Debug\netcoreapp3.1\09. Ремонт на плочки.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\obj\Debug\netcoreapp3.1\09. Ремонт на плочки.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\obj\Debug\netcoreapp3.1\09. Ремонт на плочки.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\09. Ремонт на плочки\obj\Debug\netcoreapp3.1\09. Ремонт на плочки.genruntimeconfig.cache

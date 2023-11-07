@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\bin\Debug\net6.0\snake.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\bin\Debug\net6.0\snake.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\bin\Debug\net6.0\snake.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\bin\Debug\net6.0\snake.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\bin\Debug\net6.0\snake.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\obj\Debug\net6.0\snake.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\obj\Debug\net6.0\snake.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\obj\Debug\net6.0\snake.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\obj\Debug\net6.0\snake.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\obj\Debug\net6.0\snake.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\obj\Debug\net6.0\snake.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\obj\Debug\net6.0\refint\snake.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\obj\Debug\net6.0\snake.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\obj\Debug\net6.0\snake.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\10.10\Задачи\11 зад\snake\snake\obj\Debug\net6.0\ref\snake.dll

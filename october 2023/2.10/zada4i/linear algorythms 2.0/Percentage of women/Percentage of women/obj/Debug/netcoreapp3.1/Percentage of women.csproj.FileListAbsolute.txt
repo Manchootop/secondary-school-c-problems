@@ -1,0 +1,12 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\bin\Debug\netcoreapp3.1\Percentage of women.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\bin\Debug\netcoreapp3.1\Percentage of women.deps.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\bin\Debug\netcoreapp3.1\Percentage of women.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\bin\Debug\netcoreapp3.1\Percentage of women.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\bin\Debug\netcoreapp3.1\Percentage of women.dll
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\bin\Debug\netcoreapp3.1\Percentage of women.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\obj\Debug\netcoreapp3.1\Percentage of women.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\obj\Debug\netcoreapp3.1\Percentage of women.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\obj\Debug\netcoreapp3.1\Percentage of women.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\obj\Debug\netcoreapp3.1\Percentage of women.dll
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\obj\Debug\netcoreapp3.1\Percentage of women.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of women\Percentage of women\obj\Debug\netcoreapp3.1\Percentage of women.genruntimeconfig.cache

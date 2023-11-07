@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aritmethic operations with correct decimals/1.0.0": {
+        "runtime": {
+          "Aritmethic operations with correct decimals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aritmethic operations with correct decimals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\bin\Debug\netcoreapp3.1\5. Число, кратно на 10.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\bin\Debug\netcoreapp3.1\5. Число, кратно на 10.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\bin\Debug\netcoreapp3.1\5. Число, кратно на 10.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\bin\Debug\netcoreapp3.1\5. Число, кратно на 10.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\bin\Debug\netcoreapp3.1\5. Число, кратно на 10.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\bin\Debug\netcoreapp3.1\5. Число, кратно на 10.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\obj\Debug\netcoreapp3.1\5. Число, кратно на 10.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\obj\Debug\netcoreapp3.1\5. Число, кратно на 10.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\obj\Debug\netcoreapp3.1\5. Число, кратно на 10.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\obj\Debug\netcoreapp3.1\5. Число, кратно на 10.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\obj\Debug\netcoreapp3.1\5. Число, кратно на 10.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\5. Число, кратно на 10\obj\Debug\netcoreapp3.1\5. Число, кратно на 10.genruntimeconfig.cache

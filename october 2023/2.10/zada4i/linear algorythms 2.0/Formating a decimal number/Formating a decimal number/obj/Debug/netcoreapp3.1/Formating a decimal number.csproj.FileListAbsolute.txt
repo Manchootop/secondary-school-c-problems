@@ -1,0 +1,12 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\bin\Debug\netcoreapp3.1\Formating a decimal number.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\bin\Debug\netcoreapp3.1\Formating a decimal number.deps.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\bin\Debug\netcoreapp3.1\Formating a decimal number.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\bin\Debug\netcoreapp3.1\Formating a decimal number.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\bin\Debug\netcoreapp3.1\Formating a decimal number.dll
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\bin\Debug\netcoreapp3.1\Formating a decimal number.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\obj\Debug\netcoreapp3.1\Formating a decimal number.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\obj\Debug\netcoreapp3.1\Formating a decimal number.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\obj\Debug\netcoreapp3.1\Formating a decimal number.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\obj\Debug\netcoreapp3.1\Formating a decimal number.dll
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\obj\Debug\netcoreapp3.1\Formating a decimal number.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Formating a decimal number\Formating a decimal number\obj\Debug\netcoreapp3.1\Formating a decimal number.genruntimeconfig.cache

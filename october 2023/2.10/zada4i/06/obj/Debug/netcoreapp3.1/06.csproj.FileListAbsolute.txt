@@ -1,0 +1,12 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\bin\Debug\netcoreapp3.1\06.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\bin\Debug\netcoreapp3.1\06.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\bin\Debug\netcoreapp3.1\06.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\bin\Debug\netcoreapp3.1\06.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\bin\Debug\netcoreapp3.1\06.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\bin\Debug\netcoreapp3.1\06.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\obj\Debug\netcoreapp3.1\06.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\obj\Debug\netcoreapp3.1\06.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\obj\Debug\netcoreapp3.1\06.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\obj\Debug\netcoreapp3.1\06.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\obj\Debug\netcoreapp3.1\06.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\06\obj\Debug\netcoreapp3.1\06.genruntimeconfig.cache

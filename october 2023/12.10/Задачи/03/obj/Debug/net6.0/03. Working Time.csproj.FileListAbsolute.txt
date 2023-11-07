@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\bin\Debug\net6.0\03. Working Time.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\bin\Debug\net6.0\03. Working Time.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\bin\Debug\net6.0\03. Working Time.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\bin\Debug\net6.0\03. Working Time.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\bin\Debug\net6.0\03. Working Time.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\obj\Debug\net6.0\03. Working Time.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\obj\Debug\net6.0\03. Working Time.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\obj\Debug\net6.0\03. Working Time.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\obj\Debug\net6.0\03. Working Time.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\obj\Debug\net6.0\03. Working Time.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\obj\Debug\net6.0\03. Working Time.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\obj\Debug\net6.0\refint\03. Working Time.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\obj\Debug\net6.0\03. Working Time.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\obj\Debug\net6.0\03. Working Time.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\03. Working Time\obj\Debug\net6.0\ref\03. Working Time.dll

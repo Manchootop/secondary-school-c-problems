@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\bin\Debug\net6.0\04. Time + 15 minutes.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\bin\Debug\net6.0\04. Time + 15 minutes.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\bin\Debug\net6.0\04. Time + 15 minutes.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\bin\Debug\net6.0\04. Time + 15 minutes.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\bin\Debug\net6.0\04. Time + 15 minutes.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\obj\Debug\net6.0\04. Time + 15 minutes.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\obj\Debug\net6.0\04. Time + 15 minutes.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\obj\Debug\net6.0\04. Time + 15 minutes.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\obj\Debug\net6.0\04. Time + 15 minutes.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\obj\Debug\net6.0\04. Time + 15 minutes.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\obj\Debug\net6.0\04. Time + 15 minutes.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\obj\Debug\net6.0\refint\04. Time + 15 minutes.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\obj\Debug\net6.0\04. Time + 15 minutes.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\obj\Debug\net6.0\04. Time + 15 minutes.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\12.10\Задачи\04. Time + 15 minutes\obj\Debug\net6.0\ref\04. Time + 15 minutes.dll

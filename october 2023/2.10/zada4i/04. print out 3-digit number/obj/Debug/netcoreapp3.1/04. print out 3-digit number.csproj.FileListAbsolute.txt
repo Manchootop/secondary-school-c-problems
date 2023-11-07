@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\bin\Debug\netcoreapp3.1\04. print out 3-digit number.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\bin\Debug\netcoreapp3.1\04. print out 3-digit number.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\bin\Debug\netcoreapp3.1\04. print out 3-digit number.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\bin\Debug\netcoreapp3.1\04. print out 3-digit number.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\bin\Debug\netcoreapp3.1\04. print out 3-digit number.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\bin\Debug\netcoreapp3.1\04. print out 3-digit number.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\obj\Debug\netcoreapp3.1\04. print out 3-digit number.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\obj\Debug\netcoreapp3.1\04. print out 3-digit number.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\obj\Debug\netcoreapp3.1\04. print out 3-digit number.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\obj\Debug\netcoreapp3.1\04. print out 3-digit number.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\obj\Debug\netcoreapp3.1\04. print out 3-digit number.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\obj\Debug\netcoreapp3.1\04. print out 3-digit number.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\04. print out 3-digit number\obj\Debug\netcoreapp3.1\04. print out 3-digit number.genruntimeconfig.cache

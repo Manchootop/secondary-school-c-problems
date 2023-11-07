@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\bin\Debug\net6.0\1000 дни на Земята.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\bin\Debug\net6.0\1000 дни на Земята.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\bin\Debug\net6.0\1000 дни на Земята.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\bin\Debug\net6.0\1000 дни на Земята.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\bin\Debug\net6.0\1000 дни на Земята.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\obj\Debug\net6.0\1000 дни на Земята.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\obj\Debug\net6.0\1000 дни на Земята.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\obj\Debug\net6.0\1000 дни на Земята.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\obj\Debug\net6.0\1000 дни на Земята.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\obj\Debug\net6.0\1000 дни на Земята.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\obj\Debug\net6.0\1000 дни на Земята.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\obj\Debug\net6.0\refint\1000 дни на Земята.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\obj\Debug\net6.0\1000 дни на Земята.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\obj\Debug\net6.0\1000 дни на Земята.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\1000 дни на Земята\obj\Debug\net6.0\ref\1000 дни на Земята.dll

@@ -1,0 +1,6 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Reading words\Reading words\bin\Debug\Reading words.exe.config
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Reading words\Reading words\bin\Debug\Reading words.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Reading words\Reading words\bin\Debug\Reading words.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Reading words\Reading words\obj\Debug\Reading words.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Reading words\Reading words\obj\Debug\Reading words.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Reading words\Reading words\obj\Debug\Reading words.pdb

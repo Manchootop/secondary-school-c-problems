@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Average speed", "\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\Average speed.csproj", "{30F7314B-7122-487B-850B-D928E43DC84C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F7314B-7122-487B-850B-D928E43DC84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F7314B-7122-487B-850B-D928E43DC84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F7314B-7122-487B-850B-D928E43DC84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F7314B-7122-487B-850B-D928E43DC84C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EEFD997-A381-4FC8-957D-E08D3E28B55D}
+	EndGlobalSection
+EndGlobal

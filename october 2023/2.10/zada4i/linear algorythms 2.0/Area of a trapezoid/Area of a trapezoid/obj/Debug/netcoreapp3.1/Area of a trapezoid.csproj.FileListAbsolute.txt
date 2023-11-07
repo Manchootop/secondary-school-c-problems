@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\bin\Debug\netcoreapp3.1\Area of a trapezoid.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\bin\Debug\netcoreapp3.1\Area of a trapezoid.deps.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\bin\Debug\netcoreapp3.1\Area of a trapezoid.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\bin\Debug\netcoreapp3.1\Area of a trapezoid.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\bin\Debug\netcoreapp3.1\Area of a trapezoid.dll
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\bin\Debug\netcoreapp3.1\Area of a trapezoid.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\obj\Debug\netcoreapp3.1\Area of a trapezoid.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\obj\Debug\netcoreapp3.1\Area of a trapezoid.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\obj\Debug\netcoreapp3.1\Area of a trapezoid.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\obj\Debug\netcoreapp3.1\Area of a trapezoid.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\obj\Debug\netcoreapp3.1\Area of a trapezoid.dll
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\obj\Debug\netcoreapp3.1\Area of a trapezoid.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Area of a trapezoid\Area of a trapezoid\obj\Debug\netcoreapp3.1\Area of a trapezoid.genruntimeconfig.cache

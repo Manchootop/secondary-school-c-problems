@@ -1,0 +1,7 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Number divisable by 10\Number divisable by 10\bin\Debug\Number divisable by 10.exe.config
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Number divisable by 10\Number divisable by 10\bin\Debug\Number divisable by 10.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Number divisable by 10\Number divisable by 10\bin\Debug\Number divisable by 10.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Number divisable by 10\Number divisable by 10\obj\Debug\Number divisable by 10.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Number divisable by 10\Number divisable by 10\obj\Debug\Number divisable by 10.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Number divisable by 10\Number divisable by 10\obj\Debug\Number divisable by 10.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Number divisable by 10\Number divisable by 10\obj\Debug\Number divisable by 10.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travelling", "\room309\V_Radeva\11 г\Теодор 25\Циклични алгоритми\Travelling\Travelling\Travelling.csproj", "{69F6A9BA-1743-4A9A-8C98-385513E2F01F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F6A9BA-1743-4A9A-8C98-385513E2F01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F6A9BA-1743-4A9A-8C98-385513E2F01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F6A9BA-1743-4A9A-8C98-385513E2F01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F6A9BA-1743-4A9A-8C98-385513E2F01F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1611E097-6050-4B9E-A0B7-F7652E78B7B8}
+	EndGlobalSection
+EndGlobal

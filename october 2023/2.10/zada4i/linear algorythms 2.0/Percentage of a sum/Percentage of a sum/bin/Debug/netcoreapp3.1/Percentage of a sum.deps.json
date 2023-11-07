@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Percentage of a sum/1.0.0": {
+        "runtime": {
+          "Percentage of a sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Percentage of a sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

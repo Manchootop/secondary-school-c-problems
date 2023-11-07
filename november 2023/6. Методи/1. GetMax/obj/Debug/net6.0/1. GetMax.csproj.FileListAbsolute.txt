@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\bin\Debug\net6.0\1. GetMax.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\bin\Debug\net6.0\1. GetMax.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\bin\Debug\net6.0\1. GetMax.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\bin\Debug\net6.0\1. GetMax.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\bin\Debug\net6.0\1. GetMax.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\obj\Debug\net6.0\1. GetMax.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\obj\Debug\net6.0\1. GetMax.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\obj\Debug\net6.0\1. GetMax.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\obj\Debug\net6.0\1. GetMax.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\obj\Debug\net6.0\1. GetMax.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\obj\Debug\net6.0\1. GetMax.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\obj\Debug\net6.0\refint\1. GetMax.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\obj\Debug\net6.0\1. GetMax.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\obj\Debug\net6.0\1. GetMax.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\1. GetMax\obj\Debug\net6.0\ref\1. GetMax.dll

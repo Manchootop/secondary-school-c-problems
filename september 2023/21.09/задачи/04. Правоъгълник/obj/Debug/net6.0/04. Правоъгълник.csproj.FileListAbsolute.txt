@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\bin\Debug\net6.0\04. Правоъгълник.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\bin\Debug\net6.0\04. Правоъгълник.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\bin\Debug\net6.0\04. Правоъгълник.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\bin\Debug\net6.0\04. Правоъгълник.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\bin\Debug\net6.0\04. Правоъгълник.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\obj\Debug\net6.0\04. Правоъгълник.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\obj\Debug\net6.0\04. Правоъгълник.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\obj\Debug\net6.0\04. Правоъгълник.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\obj\Debug\net6.0\04. Правоъгълник.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\obj\Debug\net6.0\04. Правоъгълник.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\obj\Debug\net6.0\04. Правоъгълник.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\obj\Debug\net6.0\refint\04. Правоъгълник.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\obj\Debug\net6.0\04. Правоъгълник.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\obj\Debug\net6.0\04. Правоъгълник.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\06. типове данни\04. Правоъгълник\obj\Debug\net6.0\ref\04. Правоъгълник.dll

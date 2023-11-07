@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\bin\Debug\netcoreapp3.1\Catch the thief.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\bin\Debug\netcoreapp3.1\Catch the thief.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\bin\Debug\netcoreapp3.1\Catch the thief.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\bin\Debug\netcoreapp3.1\Catch the thief.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\bin\Debug\netcoreapp3.1\Catch the thief.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\bin\Debug\netcoreapp3.1\Catch the thief.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\obj\Debug\netcoreapp3.1\Catch the thief.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\obj\Debug\netcoreapp3.1\Catch the thief.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\obj\Debug\netcoreapp3.1\Catch the thief.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\obj\Debug\netcoreapp3.1\Catch the thief.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\obj\Debug\netcoreapp3.1\Catch the thief.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\obj\Debug\netcoreapp3.1\Catch the thief.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\27.09\Задачи\Задачи\Catch the thief\obj\Debug\netcoreapp3.1\Catch the thief.genruntimeconfig.cache

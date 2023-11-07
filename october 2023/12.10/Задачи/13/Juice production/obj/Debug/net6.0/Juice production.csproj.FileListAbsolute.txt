@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\bin\Debug\net6.0\Juice production.exe
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\bin\Debug\net6.0\Juice production.deps.json
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\bin\Debug\net6.0\Juice production.runtimeconfig.json
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\bin\Debug\net6.0\Juice production.dll
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\bin\Debug\net6.0\Juice production.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\obj\Debug\net6.0\Juice production.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\obj\Debug\net6.0\Juice production.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\obj\Debug\net6.0\Juice production.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\obj\Debug\net6.0\Juice production.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\obj\Debug\net6.0\Juice production.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\obj\Debug\net6.0\Juice production.dll
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\obj\Debug\net6.0\refint\Juice production.dll
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\obj\Debug\net6.0\Juice production.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\obj\Debug\net6.0\Juice production.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Теодор 25\Разклонени алгоритми\Juice production\Juice production\obj\Debug\net6.0\ref\Juice production.dll

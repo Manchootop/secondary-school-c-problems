@@ -1,0 +1,6 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Типове данни\Greeting\Greeting\bin\Debug\Greeting.exe.config
+\\ROOM309\V_Radeva\11 г\Теодор 25\Типове данни\Greeting\Greeting\bin\Debug\Greeting.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Типове данни\Greeting\Greeting\bin\Debug\Greeting.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Типове данни\Greeting\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Типове данни\Greeting\Greeting\obj\Debug\Greeting.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Типове данни\Greeting\Greeting\obj\Debug\Greeting.pdb

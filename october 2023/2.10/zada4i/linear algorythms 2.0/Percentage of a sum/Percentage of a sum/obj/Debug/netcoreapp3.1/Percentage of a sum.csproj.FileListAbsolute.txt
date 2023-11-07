@@ -1,0 +1,12 @@
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\bin\Debug\netcoreapp3.1\Percentage of a sum.exe
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\bin\Debug\netcoreapp3.1\Percentage of a sum.deps.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\bin\Debug\netcoreapp3.1\Percentage of a sum.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\bin\Debug\netcoreapp3.1\Percentage of a sum.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\bin\Debug\netcoreapp3.1\Percentage of a sum.dll
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\bin\Debug\netcoreapp3.1\Percentage of a sum.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\obj\Debug\netcoreapp3.1\Percentage of a sum.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\obj\Debug\netcoreapp3.1\Percentage of a sum.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\obj\Debug\netcoreapp3.1\Percentage of a sum.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\obj\Debug\netcoreapp3.1\Percentage of a sum.dll
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\obj\Debug\netcoreapp3.1\Percentage of a sum.pdb
+\\ROOM309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Percentage of a sum\Percentage of a sum\obj\Debug\netcoreapp3.1\Percentage of a sum.genruntimeconfig.cache

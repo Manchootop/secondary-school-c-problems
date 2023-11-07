@@ -1,0 +1,12 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\bin\Debug\netcoreapp3.1\6. Четене на думи.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\bin\Debug\netcoreapp3.1\6. Четене на думи.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\bin\Debug\netcoreapp3.1\6. Четене на думи.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\bin\Debug\netcoreapp3.1\6. Четене на думи.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\bin\Debug\netcoreapp3.1\6. Четене на думи.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\bin\Debug\netcoreapp3.1\6. Четене на думи.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\obj\Debug\netcoreapp3.1\6. Четене на думи.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\obj\Debug\netcoreapp3.1\6. Четене на думи.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\obj\Debug\netcoreapp3.1\6. Четене на думи.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\obj\Debug\netcoreapp3.1\6. Четене на думи.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\obj\Debug\netcoreapp3.1\6. Четене на думи.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\16.10\Задачи\6. Четене на думи\obj\Debug\netcoreapp3.1\6. Четене на думи.genruntimeconfig.cache

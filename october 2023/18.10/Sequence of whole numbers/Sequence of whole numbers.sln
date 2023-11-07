@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sequence of whole numbers", "Sequence of whole numbers\Sequence of whole numbers.csproj", "{5FE27551-1283-4193-8B7B-7B36D36D0F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FE27551-1283-4193-8B7B-7B36D36D0F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FE27551-1283-4193-8B7B-7B36D36D0F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FE27551-1283-4193-8B7B-7B36D36D0F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FE27551-1283-4193-8B7B-7B36D36D0F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {491C4898-77F3-4F5D-BECD-951E90438771}
+	EndGlobalSection
+EndGlobal

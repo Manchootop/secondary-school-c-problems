@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\bin\Debug\net6.0\2. Калкулатор депозити.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\bin\Debug\net6.0\2. Калкулатор депозити.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\bin\Debug\net6.0\2. Калкулатор депозити.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\bin\Debug\net6.0\2. Калкулатор депозити.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\bin\Debug\net6.0\2. Калкулатор депозити.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\obj\Debug\net6.0\2. Калкулатор депозити.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\obj\Debug\net6.0\2. Калкулатор депозити.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\obj\Debug\net6.0\2. Калкулатор депозити.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\obj\Debug\net6.0\2. Калкулатор депозити.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\obj\Debug\net6.0\2. Калкулатор депозити.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\obj\Debug\net6.0\2. Калкулатор депозити.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\obj\Debug\net6.0\refint\2. Калкулатор депозити.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\obj\Debug\net6.0\2. Калкулатор депозити.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\obj\Debug\net6.0\2. Калкулатор депозити.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\3.10\Zada4u\2. Калкулатор депозити\obj\Debug\net6.0\ref\2. Калкулатор депозити.dll

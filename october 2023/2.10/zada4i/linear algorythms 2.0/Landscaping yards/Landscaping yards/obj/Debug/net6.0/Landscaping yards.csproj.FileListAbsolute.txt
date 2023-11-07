@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\bin\Debug\net6.0\Landscaping yards.exe
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\bin\Debug\net6.0\Landscaping yards.deps.json
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\bin\Debug\net6.0\Landscaping yards.runtimeconfig.json
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\bin\Debug\net6.0\Landscaping yards.dll
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\bin\Debug\net6.0\Landscaping yards.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\obj\Debug\net6.0\Landscaping yards.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\obj\Debug\net6.0\Landscaping yards.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\obj\Debug\net6.0\Landscaping yards.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\obj\Debug\net6.0\Landscaping yards.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\obj\Debug\net6.0\Landscaping yards.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\obj\Debug\net6.0\Landscaping yards.dll
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\obj\Debug\net6.0\refint\Landscaping yards.dll
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\obj\Debug\net6.0\Landscaping yards.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\obj\Debug\net6.0\Landscaping yards.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Landscaping yards\Landscaping yards\obj\Debug\net6.0\ref\Landscaping yards.dll

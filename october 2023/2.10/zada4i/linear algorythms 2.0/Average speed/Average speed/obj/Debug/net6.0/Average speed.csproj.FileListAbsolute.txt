@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\bin\Debug\net6.0\Average speed.exe
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\bin\Debug\net6.0\Average speed.deps.json
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\bin\Debug\net6.0\Average speed.runtimeconfig.json
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\bin\Debug\net6.0\Average speed.dll
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\bin\Debug\net6.0\Average speed.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\obj\Debug\net6.0\Average speed.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\obj\Debug\net6.0\Average speed.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\obj\Debug\net6.0\Average speed.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\obj\Debug\net6.0\Average speed.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\obj\Debug\net6.0\Average speed.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\obj\Debug\net6.0\Average speed.dll
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\obj\Debug\net6.0\refint\Average speed.dll
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\obj\Debug\net6.0\Average speed.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\obj\Debug\net6.0\Average speed.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Теодор 25\Линейни изчислителни процеси\Average speed\Average speed\obj\Debug\net6.0\ref\Average speed.dll

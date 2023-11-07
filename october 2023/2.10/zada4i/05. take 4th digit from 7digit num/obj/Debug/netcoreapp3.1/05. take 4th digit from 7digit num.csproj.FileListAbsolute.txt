@@ -1,0 +1,12 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\bin\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\bin\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\bin\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\bin\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\bin\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\bin\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\obj\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\obj\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\obj\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\obj\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\obj\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\2.10\zada4i\05. take 4th digit from 7digit num\obj\Debug\netcoreapp3.1\05. take 4th digit from 7digit num.genruntimeconfig.cache

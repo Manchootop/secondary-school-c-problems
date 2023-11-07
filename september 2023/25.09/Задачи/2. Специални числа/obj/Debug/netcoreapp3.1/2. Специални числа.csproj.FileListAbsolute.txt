@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\obj\Debug\netcoreapp3.1\2. Специални числа.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\obj\Debug\netcoreapp3.1\2. Специални числа.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\obj\Debug\netcoreapp3.1\2. Специални числа.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\obj\Debug\netcoreapp3.1\2. Специални числа.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\bin\Debug\netcoreapp3.1\2. Специални числа.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\bin\Debug\netcoreapp3.1\2. Специални числа.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\bin\Debug\netcoreapp3.1\2. Специални числа.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\bin\Debug\netcoreapp3.1\2. Специални числа.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\bin\Debug\netcoreapp3.1\2. Специални числа.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\bin\Debug\netcoreapp3.1\2. Специални числа.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\obj\Debug\netcoreapp3.1\2. Специални числа.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\obj\Debug\netcoreapp3.1\2. Специални числа.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\септември\25.09\1. Асансьор\2. Специални числа\obj\Debug\netcoreapp3.1\2. Специални числа.genruntimeconfig.cache

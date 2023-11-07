@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema ticket", "\asus-5030\V.Radeva\11 г клас\Теодор 25\4. Разклонени алгоритми\Cinema ticket\Cinema ticket\Cinema ticket.csproj", "{63E68061-67D9-4BA9-A257-F024DC1D0ADB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E68061-67D9-4BA9-A257-F024DC1D0ADB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E68061-67D9-4BA9-A257-F024DC1D0ADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E68061-67D9-4BA9-A257-F024DC1D0ADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E68061-67D9-4BA9-A257-F024DC1D0ADB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9BF8CBC-767B-45B1-A7CC-BA32F8D0B247}
+	EndGlobalSection
+EndGlobal
