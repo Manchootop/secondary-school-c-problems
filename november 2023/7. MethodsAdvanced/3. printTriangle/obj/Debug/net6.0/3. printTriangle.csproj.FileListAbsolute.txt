@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\bin\Debug\net6.0\3. printTriangle.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\bin\Debug\net6.0\3. printTriangle.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\bin\Debug\net6.0\3. printTriangle.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\bin\Debug\net6.0\3. printTriangle.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\bin\Debug\net6.0\3. printTriangle.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\obj\Debug\net6.0\3. printTriangle.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\obj\Debug\net6.0\3. printTriangle.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\obj\Debug\net6.0\3. printTriangle.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\obj\Debug\net6.0\3. printTriangle.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\obj\Debug\net6.0\3. printTriangle.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\obj\Debug\net6.0\3. printTriangle.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\obj\Debug\net6.0\refint\3. printTriangle.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\obj\Debug\net6.0\3. printTriangle.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\obj\Debug\net6.0\3. printTriangle.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\3. printTriangle\obj\Debug\net6.0\ref\3. printTriangle.dll
