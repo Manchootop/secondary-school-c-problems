@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Лице на правоъгълник", "\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\4. Лице на правоъгълник\4. Лице на правоъгълник.csproj", "{37629498-FBFC-420B-9980-FDB7E1068CD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37629498-FBFC-420B-9980-FDB7E1068CD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37629498-FBFC-420B-9980-FDB7E1068CD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37629498-FBFC-420B-9980-FDB7E1068CD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37629498-FBFC-420B-9980-FDB7E1068CD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51B9684E-DE41-42DF-B7EC-4F2F56A99DCD}
+	EndGlobalSection
+EndGlobal

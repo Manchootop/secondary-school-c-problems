@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Знак на цели числа", "\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\6. Методи\3. Знак на цели числа\3. Знак на цели числа.csproj", "{8ACD157F-FF04-4BE9-A250-DF3C8344DD01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACD157F-FF04-4BE9-A250-DF3C8344DD01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACD157F-FF04-4BE9-A250-DF3C8344DD01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACD157F-FF04-4BE9-A250-DF3C8344DD01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACD157F-FF04-4BE9-A250-DF3C8344DD01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D2BC449-0EBB-4C39-8394-BB438F43D1E9}
+	EndGlobalSection
+EndGlobal
