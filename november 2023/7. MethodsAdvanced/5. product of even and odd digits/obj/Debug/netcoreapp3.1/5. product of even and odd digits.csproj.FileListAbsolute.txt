@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\bin\Debug\netcoreapp3.1\5. product of even and odd digits.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\bin\Debug\netcoreapp3.1\5. product of even and odd digits.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\bin\Debug\netcoreapp3.1\5. product of even and odd digits.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\bin\Debug\netcoreapp3.1\5. product of even and odd digits.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\bin\Debug\netcoreapp3.1\5. product of even and odd digits.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\bin\Debug\netcoreapp3.1\5. product of even and odd digits.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\obj\Debug\netcoreapp3.1\5. product of even and odd digits.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\obj\Debug\netcoreapp3.1\5. product of even and odd digits.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\obj\Debug\netcoreapp3.1\5. product of even and odd digits.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\obj\Debug\netcoreapp3.1\5. product of even and odd digits.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\obj\Debug\netcoreapp3.1\5. product of even and odd digits.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\obj\Debug\netcoreapp3.1\5. product of even and odd digits.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\5. product of even and odd digits\obj\Debug\netcoreapp3.1\5. product of even and odd digits.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\bin\Debug\netcoreapp3.1\6. Ascii value numbers.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\bin\Debug\netcoreapp3.1\6. Ascii value numbers.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\bin\Debug\netcoreapp3.1\6. Ascii value numbers.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\bin\Debug\netcoreapp3.1\6. Ascii value numbers.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\bin\Debug\netcoreapp3.1\6. Ascii value numbers.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\bin\Debug\netcoreapp3.1\6. Ascii value numbers.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\obj\Debug\netcoreapp3.1\6. Ascii value numbers.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\obj\Debug\netcoreapp3.1\6. Ascii value numbers.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\obj\Debug\netcoreapp3.1\6. Ascii value numbers.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\obj\Debug\netcoreapp3.1\6. Ascii value numbers.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\obj\Debug\netcoreapp3.1\6. Ascii value numbers.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\obj\Debug\netcoreapp3.1\6. Ascii value numbers.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. MethodsAdvanced\6. Ascii value numbers\obj\Debug\netcoreapp3.1\6. Ascii value numbers.genruntimeconfig.cache
