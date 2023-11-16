@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\bin\Debug\net6.0\Print numbers in reverse order.exe
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\bin\Debug\net6.0\Print numbers in reverse order.deps.json
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\bin\Debug\net6.0\Print numbers in reverse order.runtimeconfig.json
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\bin\Debug\net6.0\Print numbers in reverse order.dll
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\bin\Debug\net6.0\Print numbers in reverse order.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\obj\Debug\net6.0\Print numbers in reverse order.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\obj\Debug\net6.0\Print numbers in reverse order.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\obj\Debug\net6.0\Print numbers in reverse order.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\obj\Debug\net6.0\Print numbers in reverse order.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\obj\Debug\net6.0\Print numbers in reverse order.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\obj\Debug\net6.0\Print numbers in reverse order.dll
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\obj\Debug\net6.0\refint\Print numbers in reverse order.dll
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\obj\Debug\net6.0\Print numbers in reverse order.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\obj\Debug\net6.0\Print numbers in reverse order.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Print numbers in reverse order\Print numbers in reverse order\obj\Debug\net6.0\ref\Print numbers in reverse order.dll

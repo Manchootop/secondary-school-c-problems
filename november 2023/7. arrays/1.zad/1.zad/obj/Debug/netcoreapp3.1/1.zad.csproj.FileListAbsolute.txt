@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\bin\Debug\netcoreapp3.1\1.zad.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\bin\Debug\netcoreapp3.1\1.zad.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\bin\Debug\netcoreapp3.1\1.zad.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\bin\Debug\netcoreapp3.1\1.zad.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\bin\Debug\netcoreapp3.1\1.zad.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\bin\Debug\netcoreapp3.1\1.zad.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\obj\Debug\netcoreapp3.1\1.zad.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\obj\Debug\netcoreapp3.1\1.zad.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\obj\Debug\netcoreapp3.1\1.zad.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\obj\Debug\netcoreapp3.1\1.zad.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\obj\Debug\netcoreapp3.1\1.zad.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\obj\Debug\netcoreapp3.1\1.zad.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\7. Масиви\1.zad\1.zad\obj\Debug\netcoreapp3.1\1.zad.genruntimeconfig.cache

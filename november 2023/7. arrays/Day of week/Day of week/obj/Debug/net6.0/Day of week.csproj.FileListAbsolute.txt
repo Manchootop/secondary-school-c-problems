@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\bin\Debug\net6.0\Day of week.exe
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\bin\Debug\net6.0\Day of week.deps.json
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\bin\Debug\net6.0\Day of week.runtimeconfig.json
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\bin\Debug\net6.0\Day of week.dll
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\bin\Debug\net6.0\Day of week.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\obj\Debug\net6.0\Day of week.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\obj\Debug\net6.0\Day of week.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\obj\Debug\net6.0\Day of week.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\obj\Debug\net6.0\Day of week.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\obj\Debug\net6.0\Day of week.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\obj\Debug\net6.0\Day of week.dll
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\obj\Debug\net6.0\refint\Day of week.dll
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\obj\Debug\net6.0\Day of week.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\obj\Debug\net6.0\Day of week.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Day of week\Day of week\obj\Debug\net6.0\ref\Day of week.dll

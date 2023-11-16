@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\bin\Debug\net6.0\Rounding numbers.exe
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\bin\Debug\net6.0\Rounding numbers.deps.json
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\bin\Debug\net6.0\Rounding numbers.runtimeconfig.json
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\bin\Debug\net6.0\Rounding numbers.dll
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\bin\Debug\net6.0\Rounding numbers.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\obj\Debug\net6.0\Rounding numbers.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\obj\Debug\net6.0\Rounding numbers.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\obj\Debug\net6.0\Rounding numbers.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\obj\Debug\net6.0\Rounding numbers.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\obj\Debug\net6.0\Rounding numbers.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\obj\Debug\net6.0\Rounding numbers.dll
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\obj\Debug\net6.0\refint\Rounding numbers.dll
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\obj\Debug\net6.0\Rounding numbers.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\obj\Debug\net6.0\Rounding numbers.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Теодор 25\Масиви\Rounding numbers\Rounding numbers\obj\Debug\net6.0\ref\Rounding numbers.dll
