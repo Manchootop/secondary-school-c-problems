@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\bin\Debug\net6.0\3. Triangle with constructor.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\bin\Debug\net6.0\3. Triangle with constructor.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\bin\Debug\net6.0\3. Triangle with constructor.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\bin\Debug\net6.0\3. Triangle with constructor.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\bin\Debug\net6.0\3. Triangle with constructor.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\obj\Debug\net6.0\3. Triangle with constructor.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\obj\Debug\net6.0\3. Triangle with constructor.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\obj\Debug\net6.0\3. Triangle with constructor.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\obj\Debug\net6.0\3. Triangle with constructor.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\obj\Debug\net6.0\3. Triangle with constructor.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\obj\Debug\net6.0\3. Triangle with constructor.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\obj\Debug\net6.0\refint\3. Triangle with constructor.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\obj\Debug\net6.0\3. Triangle with constructor.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\obj\Debug\net6.0\3. Triangle with constructor.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\obj\Debug\net6.0\ref\3. Triangle with constructor.dll

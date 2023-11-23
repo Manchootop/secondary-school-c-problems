@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\bin\Debug\net6.0\triangleWithMethod.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\bin\Debug\net6.0\triangleWithMethod.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\bin\Debug\net6.0\triangleWithMethod.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\bin\Debug\net6.0\triangleWithMethod.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\bin\Debug\net6.0\triangleWithMethod.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\obj\Debug\net6.0\triangleWithMethod.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\obj\Debug\net6.0\triangleWithMethod.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\obj\Debug\net6.0\triangleWithMethod.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\obj\Debug\net6.0\triangleWithMethod.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\obj\Debug\net6.0\triangleWithMethod.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\obj\Debug\net6.0\triangleWithMethod.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\obj\Debug\net6.0\refint\triangleWithMethod.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\obj\Debug\net6.0\triangleWithMethod.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\obj\Debug\net6.0\triangleWithMethod.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\triangleWithMethod\obj\Debug\net6.0\ref\triangleWithMethod.dll

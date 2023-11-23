@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Triangle with constructor", "\ROOM309\V_Radeva\11 г\Мариянкътъ17\ноември\8. classes\3. Triangle with constructor\3. Triangle with constructor.csproj", "{1CAE1C2C-6D49-47EF-BA16-E017D925D7B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CAE1C2C-6D49-47EF-BA16-E017D925D7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAE1C2C-6D49-47EF-BA16-E017D925D7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAE1C2C-6D49-47EF-BA16-E017D925D7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAE1C2C-6D49-47EF-BA16-E017D925D7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE37AECA-87F7-465B-BD4A-194866A25D65}
+	EndGlobalSection
+EndGlobal
