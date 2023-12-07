@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1", "\room309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\1.csproj", "{80A967D9-8376-4C3B-ADDA-D127C803AE48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2", "\room309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\2\2.csproj", "{55E3AE89-F7AA-4F7A-B37B-505F1E67FE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.", "\room309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\4\4..csproj", "{27CDEA8D-9410-475C-BDD5-B7E6932FFCFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.", "\room309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\6\6..csproj", "{479708B9-93D8-4134-B7A3-716CE1911BC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10", "\room309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\10\10.csproj", "{3D80DCBF-A48E-497E-BE61-C386BAB90747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80A967D9-8376-4C3B-ADDA-D127C803AE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A967D9-8376-4C3B-ADDA-D127C803AE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A967D9-8376-4C3B-ADDA-D127C803AE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A967D9-8376-4C3B-ADDA-D127C803AE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E3AE89-F7AA-4F7A-B37B-505F1E67FE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E3AE89-F7AA-4F7A-B37B-505F1E67FE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E3AE89-F7AA-4F7A-B37B-505F1E67FE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E3AE89-F7AA-4F7A-B37B-505F1E67FE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CDEA8D-9410-475C-BDD5-B7E6932FFCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CDEA8D-9410-475C-BDD5-B7E6932FFCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CDEA8D-9410-475C-BDD5-B7E6932FFCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CDEA8D-9410-475C-BDD5-B7E6932FFCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{479708B9-93D8-4134-B7A3-716CE1911BC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{479708B9-93D8-4134-B7A3-716CE1911BC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{479708B9-93D8-4134-B7A3-716CE1911BC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{479708B9-93D8-4134-B7A3-716CE1911BC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D80DCBF-A48E-497E-BE61-C386BAB90747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D80DCBF-A48E-497E-BE61-C386BAB90747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D80DCBF-A48E-497E-BE61-C386BAB90747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D80DCBF-A48E-497E-BE61-C386BAB90747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4814E68-CAE1-42A1-8D0B-5CD77B8AC361}
+	EndGlobalSection
+EndGlobal

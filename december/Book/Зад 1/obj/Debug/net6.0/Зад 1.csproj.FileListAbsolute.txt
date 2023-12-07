@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\bin\Debug\net6.0\Зад 1.exe
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\bin\Debug\net6.0\Зад 1.deps.json
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\bin\Debug\net6.0\Зад 1.runtimeconfig.json
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\bin\Debug\net6.0\Зад 1.dll
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\bin\Debug\net6.0\Зад 1.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\obj\Debug\net6.0\Зад 1.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\obj\Debug\net6.0\Зад 1.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\obj\Debug\net6.0\Зад 1.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\obj\Debug\net6.0\Зад 1.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\obj\Debug\net6.0\Зад 1.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\obj\Debug\net6.0\Зад 1.dll
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\obj\Debug\net6.0\refint\Зад 1.dll
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\obj\Debug\net6.0\Зад 1.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\obj\Debug\net6.0\Зад 1.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Book\Зад 1\obj\Debug\net6.0\ref\Зад 1.dll

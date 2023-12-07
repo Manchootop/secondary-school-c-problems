@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\bin\Debug\net6.0\10. Formula.exe
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\bin\Debug\net6.0\10. Formula.deps.json
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\bin\Debug\net6.0\10. Formula.runtimeconfig.json
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\bin\Debug\net6.0\10. Formula.dll
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\bin\Debug\net6.0\10. Formula.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\obj\Debug\net6.0\10. Formula.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\obj\Debug\net6.0\10. Formula.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\obj\Debug\net6.0\10. Formula.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\obj\Debug\net6.0\10. Formula.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\obj\Debug\net6.0\10. Formula.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\obj\Debug\net6.0\10. Formula.dll
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\obj\Debug\net6.0\refint\10. Formula.dll
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\obj\Debug\net6.0\10. Formula.pdb
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\obj\Debug\net6.0\10. Formula.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Теодор 25\Класове и обекти\Classes and objects Advanced\10\10. Formula\obj\Debug\net6.0\ref\10. Formula.dll

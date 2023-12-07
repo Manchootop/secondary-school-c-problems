@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\bin\Debug\netcoreapp3.1\1.exe
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\bin\Debug\netcoreapp3.1\1.deps.json
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\bin\Debug\netcoreapp3.1\1.dll
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\bin\Debug\netcoreapp3.1\1.pdb
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\obj\Debug\netcoreapp3.1\1.dll
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\obj\Debug\netcoreapp3.1\1.pdb
+\\ROOM309\V_Radeva\11 г\Момчил 19\8. Класове и обекти\Classes and objects Advanced\1\obj\Debug\netcoreapp3.1\1.genruntimeconfig.cache
