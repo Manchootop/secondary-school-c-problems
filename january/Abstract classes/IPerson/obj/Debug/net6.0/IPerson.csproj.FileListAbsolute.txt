@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\bin\Debug\net6.0\IPerson.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\bin\Debug\net6.0\IPerson.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\bin\Debug\net6.0\IPerson.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\bin\Debug\net6.0\IPerson.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\bin\Debug\net6.0\IPerson.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\obj\Debug\net6.0\IPerson.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\obj\Debug\net6.0\IPerson.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\obj\Debug\net6.0\IPerson.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\obj\Debug\net6.0\IPerson.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\obj\Debug\net6.0\IPerson.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\obj\Debug\net6.0\IPerson.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\obj\Debug\net6.0\refint\IPerson.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\obj\Debug\net6.0\IPerson.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\obj\Debug\net6.0\IPerson.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Abstract classes\IPerson\obj\Debug\net6.0\ref\IPerson.dll
