@@ -1,0 +1,15 @@
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\obj\Debug\net6.0\4. explicit interfaces.csproj.AssemblyReference.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\obj\Debug\net6.0\4. explicit interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\obj\Debug\net6.0\4. explicit interfaces.AssemblyInfoInputs.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\obj\Debug\net6.0\4. explicit interfaces.AssemblyInfo.cs
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\obj\Debug\net6.0\4. explicit interfaces.csproj.CoreCompileInputs.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\bin\Debug\net6.0\4. explicit interfaces.exe
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\bin\Debug\net6.0\4. explicit interfaces.deps.json
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\bin\Debug\net6.0\4. explicit interfaces.runtimeconfig.json
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\bin\Debug\net6.0\4. explicit interfaces.dll
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\bin\Debug\net6.0\4. explicit interfaces.pdb
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\obj\Debug\net6.0\4. explicit interfaces.dll
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\obj\Debug\net6.0\refint\4. explicit interfaces.dll
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\obj\Debug\net6.0\4. explicit interfaces.pdb
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\obj\Debug\net6.0\4. explicit interfaces.genruntimeconfig.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\4. explicit interfaces\obj\Debug\net6.0\ref\4. explicit interfaces.dll
