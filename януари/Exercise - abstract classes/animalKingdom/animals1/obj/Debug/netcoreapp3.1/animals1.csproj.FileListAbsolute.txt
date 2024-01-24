@@ -1,0 +1,13 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\obj\Debug\netcoreapp3.1\animals1.csprojAssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\obj\Debug\netcoreapp3.1\animals1.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\obj\Debug\netcoreapp3.1\animals1.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\obj\Debug\netcoreapp3.1\animals1.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\bin\Debug\netcoreapp3.1\animals1.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\bin\Debug\netcoreapp3.1\animals1.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\bin\Debug\netcoreapp3.1\animals1.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\bin\Debug\netcoreapp3.1\animals1.runtimeconfig.dev.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\bin\Debug\netcoreapp3.1\animals1.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\bin\Debug\netcoreapp3.1\animals1.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\obj\Debug\netcoreapp3.1\animals1.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\obj\Debug\netcoreapp3.1\animals1.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Exercise - abstract classes\animals1\animals1\obj\Debug\netcoreapp3.1\animals1.genruntimeconfig.cache
