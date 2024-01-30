@@ -1,0 +1,15 @@
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\bin\Debug\net6.0\Figures2.exe
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\bin\Debug\net6.0\Figures2.deps.json
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\bin\Debug\net6.0\Figures2.runtimeconfig.json
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\bin\Debug\net6.0\Figures2.dll
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\bin\Debug\net6.0\Figures2.pdb
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\obj\Debug\net6.0\Figures2.csproj.AssemblyReference.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\obj\Debug\net6.0\Figures2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\obj\Debug\net6.0\Figures2.AssemblyInfoInputs.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\obj\Debug\net6.0\Figures2.AssemblyInfo.cs
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\obj\Debug\net6.0\Figures2.csproj.CoreCompileInputs.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\obj\Debug\net6.0\Figures2.dll
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\obj\Debug\net6.0\refint\Figures2.dll
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\obj\Debug\net6.0\Figures2.pdb
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\obj\Debug\net6.0\Figures2.genruntimeconfig.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\Figures2\obj\Debug\net6.0\ref\Figures2.dll
