@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\bin\Debug\net6.0\Animals.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\bin\Debug\net6.0\Animals.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\bin\Debug\net6.0\Animals.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\bin\Debug\net6.0\Animals.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\obj\Debug\net6.0\Animals.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\obj\Debug\net6.0\Animals.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\obj\Debug\net6.0\refint\Animals.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\obj\Debug\net6.0\Animals.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Animals\obj\Debug\net6.0\ref\Animals.dll

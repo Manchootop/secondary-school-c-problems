@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\bin\Debug\net6.0\Point2D.exe
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\bin\Debug\net6.0\Point2D.deps.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\bin\Debug\net6.0\Point2D.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\bin\Debug\net6.0\Point2D.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\bin\Debug\net6.0\Point2D.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\obj\Debug\net6.0\Point2D.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\obj\Debug\net6.0\Point2D.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\obj\Debug\net6.0\Point2D.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\obj\Debug\net6.0\Point2D.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\obj\Debug\net6.0\Point2D.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\obj\Debug\net6.0\Point2D.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\obj\Debug\net6.0\refint\Point2D.dll
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\obj\Debug\net6.0\Point2D.pdb
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\obj\Debug\net6.0\Point2D.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Мариянкътъ17\януари\Point2D\obj\Debug\net6.0\ref\Point2D.dll
