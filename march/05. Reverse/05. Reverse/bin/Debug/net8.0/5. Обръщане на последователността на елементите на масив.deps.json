@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "5. Обръщане на последователността на елементите на масив/1.0.0": {
+        "runtime": {
+          "5. Обръщане на последователността на елементите на масив.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5. Обръщане на последователността на елементите на масив/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

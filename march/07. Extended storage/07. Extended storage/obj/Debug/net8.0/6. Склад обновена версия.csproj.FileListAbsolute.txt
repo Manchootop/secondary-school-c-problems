@@ -1,0 +1,14 @@
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\bin\Debug\net8.0\6. Склад обновена версия.exe
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\bin\Debug\net8.0\6. Склад обновена версия.deps.json
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\bin\Debug\net8.0\6. Склад обновена версия.runtimeconfig.json
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\bin\Debug\net8.0\6. Склад обновена версия.dll
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\bin\Debug\net8.0\6. Склад обновена версия.pdb
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\obj\Debug\net8.0\6. Склад обновена версия.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\obj\Debug\net8.0\6. Склад обновена версия.AssemblyInfoInputs.cache
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\obj\Debug\net8.0\6. Склад обновена версия.AssemblyInfo.cs
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\obj\Debug\net8.0\6. Склад обновена версия.csproj.CoreCompileInputs.cache
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\obj\Debug\net8.0\6. Склад обновена версия.dll
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\obj\Debug\net8.0\refint\6. Склад обновена версия.dll
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\obj\Debug\net8.0\6. Склад обновена версия.pdb
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\obj\Debug\net8.0\6. Склад обновена версия.genruntimeconfig.cache
+D:\Random Shit\VSShit\6. Склад обновена версия\6. Склад обновена версия\obj\Debug\net8.0\ref\6. Склад обновена версия.dll

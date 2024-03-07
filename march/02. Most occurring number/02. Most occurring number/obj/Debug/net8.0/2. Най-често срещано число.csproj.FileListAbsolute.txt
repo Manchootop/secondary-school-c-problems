@@ -1,0 +1,14 @@
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\obj\Debug\net8.0\2. Най-често срещано число.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\obj\Debug\net8.0\2. Най-често срещано число.AssemblyInfoInputs.cache
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\obj\Debug\net8.0\2. Най-често срещано число.AssemblyInfo.cs
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\obj\Debug\net8.0\2. Най-често срещано число.csproj.CoreCompileInputs.cache
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\bin\Debug\net8.0\2. Най-често срещано число.exe
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\bin\Debug\net8.0\2. Най-често срещано число.deps.json
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\bin\Debug\net8.0\2. Най-често срещано число.runtimeconfig.json
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\bin\Debug\net8.0\2. Най-често срещано число.dll
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\bin\Debug\net8.0\2. Най-често срещано число.pdb
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\obj\Debug\net8.0\2. Най-често срещано число.dll
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\obj\Debug\net8.0\refint\2. Най-често срещано число.dll
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\obj\Debug\net8.0\2. Най-често срещано число.pdb
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\obj\Debug\net8.0\2. Най-често срещано число.genruntimeconfig.cache
+D:\Random Shit\VSShit\2. Най-често срещано число\2. Най-често срещано число\obj\Debug\net8.0\ref\2. Най-често срещано число.dll
