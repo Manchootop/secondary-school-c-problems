@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "osFKuGEc/nRNvWf7VNnEhS0vJ2piF7uIpXHJlXThyWcZOYCxm/I5ZB2dgbwCTyi7I0L34CPVRJ6+//hM6YfJJg==",
+  "success": true,
+  "projectFilePath": "\\\\ROOM309\\V_Radeva\\11 г\\Мариянкътъ17\\13. List\\ListOfEvenNumbers\\3.MaximumSequenceOfIdenticalNumbers\\3.MaximumSequenceOfIdenticalNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

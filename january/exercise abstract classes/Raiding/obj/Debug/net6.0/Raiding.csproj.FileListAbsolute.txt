@@ -1,0 +1,15 @@
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\bin\Debug\net6.0\Raiding.exe
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\bin\Debug\net6.0\Raiding.deps.json
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\bin\Debug\net6.0\Raiding.runtimeconfig.json
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\bin\Debug\net6.0\Raiding.dll
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\bin\Debug\net6.0\Raiding.pdb
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\obj\Debug\net6.0\Raiding.csproj.AssemblyReference.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\obj\Debug\net6.0\Raiding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfoInputs.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\obj\Debug\net6.0\Raiding.AssemblyInfo.cs
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\obj\Debug\net6.0\Raiding.csproj.CoreCompileInputs.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\obj\Debug\net6.0\Raiding.dll
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\obj\Debug\net6.0\refint\Raiding.dll
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\obj\Debug\net6.0\Raiding.pdb
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\obj\Debug\net6.0\Raiding.genruntimeconfig.cache
+D:\Мариян 11 г\january\Exercise - abstract classes\Raiding\obj\Debug\net6.0\ref\Raiding.dll

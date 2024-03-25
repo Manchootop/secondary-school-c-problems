@@ -1,0 +1,14 @@
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\bin\Debug\net8.0\8. Сгъни и събери.exe
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\bin\Debug\net8.0\8. Сгъни и събери.deps.json
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\bin\Debug\net8.0\8. Сгъни и събери.runtimeconfig.json
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\bin\Debug\net8.0\8. Сгъни и събери.dll
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\bin\Debug\net8.0\8. Сгъни и събери.pdb
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\obj\Debug\net8.0\8. Сгъни и събери.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\obj\Debug\net8.0\8. Сгъни и събери.AssemblyInfoInputs.cache
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\obj\Debug\net8.0\8. Сгъни и събери.AssemblyInfo.cs
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\obj\Debug\net8.0\8. Сгъни и събери.csproj.CoreCompileInputs.cache
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\obj\Debug\net8.0\8. Сгъни и събери.dll
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\obj\Debug\net8.0\refint\8. Сгъни и събери.dll
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\obj\Debug\net8.0\8. Сгъни и събери.pdb
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\obj\Debug\net8.0\8. Сгъни и събери.genruntimeconfig.cache
+D:\Random Shit\VSShit\8. Сгъни и събери\8. Сгъни и събери\obj\Debug\net8.0\ref\8. Сгъни и събери.dll

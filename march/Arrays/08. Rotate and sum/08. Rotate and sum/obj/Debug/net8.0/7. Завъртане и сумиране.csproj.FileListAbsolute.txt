@@ -1,0 +1,14 @@
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\obj\Debug\net8.0\7. Завъртане и сумиране.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\obj\Debug\net8.0\7. Завъртане и сумиране.AssemblyInfoInputs.cache
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\obj\Debug\net8.0\7. Завъртане и сумиране.AssemblyInfo.cs
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\obj\Debug\net8.0\7. Завъртане и сумиране.csproj.CoreCompileInputs.cache
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\bin\Debug\net8.0\7. Завъртане и сумиране.exe
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\bin\Debug\net8.0\7. Завъртане и сумиране.deps.json
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\bin\Debug\net8.0\7. Завъртане и сумиране.runtimeconfig.json
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\bin\Debug\net8.0\7. Завъртане и сумиране.dll
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\bin\Debug\net8.0\7. Завъртане и сумиране.pdb
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\obj\Debug\net8.0\7. Завъртане и сумиране.dll
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\obj\Debug\net8.0\refint\7. Завъртане и сумиране.dll
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\obj\Debug\net8.0\7. Завъртане и сумиране.pdb
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\obj\Debug\net8.0\7. Завъртане и сумиране.genruntimeconfig.cache
+D:\Random Shit\VSShit\7. Завъртане и сумиране\7. Завъртане и сумиране\obj\Debug\net8.0\ref\7. Завъртане и сумиране.dll

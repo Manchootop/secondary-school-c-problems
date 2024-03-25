@@ -1,0 +1,14 @@
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\bin\Debug\net8.0\3. Индекс на буква.exe
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\bin\Debug\net8.0\3. Индекс на буква.deps.json
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\bin\Debug\net8.0\3. Индекс на буква.runtimeconfig.json
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\bin\Debug\net8.0\3. Индекс на буква.dll
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\bin\Debug\net8.0\3. Индекс на буква.pdb
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\obj\Debug\net8.0\3. Индекс на буква.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\obj\Debug\net8.0\3. Индекс на буква.AssemblyInfoInputs.cache
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\obj\Debug\net8.0\3. Индекс на буква.AssemblyInfo.cs
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\obj\Debug\net8.0\3. Индекс на буква.csproj.CoreCompileInputs.cache
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\obj\Debug\net8.0\3. Индекс на буква.dll
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\obj\Debug\net8.0\refint\3. Индекс на буква.dll
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\obj\Debug\net8.0\3. Индекс на буква.pdb
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\obj\Debug\net8.0\3. Индекс на буква.genruntimeconfig.cache
+D:\Random Shit\VSShit\3. Индекс на буква\3. Индекс на буква\obj\Debug\net8.0\ref\3. Индекс на буква.dll

@@ -1,0 +1,14 @@
+D:\Random Shit\VSShit\5. Склад\5. Склад\bin\Debug\net8.0\5. Склад.exe
+D:\Random Shit\VSShit\5. Склад\5. Склад\bin\Debug\net8.0\5. Склад.deps.json
+D:\Random Shit\VSShit\5. Склад\5. Склад\bin\Debug\net8.0\5. Склад.runtimeconfig.json
+D:\Random Shit\VSShit\5. Склад\5. Склад\bin\Debug\net8.0\5. Склад.dll
+D:\Random Shit\VSShit\5. Склад\5. Склад\bin\Debug\net8.0\5. Склад.pdb
+D:\Random Shit\VSShit\5. Склад\5. Склад\obj\Debug\net8.0\5. Склад.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Shit\VSShit\5. Склад\5. Склад\obj\Debug\net8.0\5. Склад.AssemblyInfoInputs.cache
+D:\Random Shit\VSShit\5. Склад\5. Склад\obj\Debug\net8.0\5. Склад.AssemblyInfo.cs
+D:\Random Shit\VSShit\5. Склад\5. Склад\obj\Debug\net8.0\5. Склад.csproj.CoreCompileInputs.cache
+D:\Random Shit\VSShit\5. Склад\5. Склад\obj\Debug\net8.0\5. Склад.dll
+D:\Random Shit\VSShit\5. Склад\5. Склад\obj\Debug\net8.0\refint\5. Склад.dll
+D:\Random Shit\VSShit\5. Склад\5. Склад\obj\Debug\net8.0\5. Склад.pdb
+D:\Random Shit\VSShit\5. Склад\5. Склад\obj\Debug\net8.0\5. Склад.genruntimeconfig.cache
+D:\Random Shit\VSShit\5. Склад\5. Склад\obj\Debug\net8.0\ref\5. Склад.dll

@@ -1,0 +1,14 @@
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\obj\Debug\net8.0\1. Статистика на масив.GeneratedMSBuildEditorConfig.editorconfig
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\obj\Debug\net8.0\1. Статистика на масив.AssemblyInfoInputs.cache
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\obj\Debug\net8.0\1. Статистика на масив.AssemblyInfo.cs
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\obj\Debug\net8.0\1. Статистика на масив.csproj.CoreCompileInputs.cache
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\bin\Debug\net8.0\1. Статистика на масив.exe
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\bin\Debug\net8.0\1. Статистика на масив.deps.json
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\bin\Debug\net8.0\1. Статистика на масив.runtimeconfig.json
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\bin\Debug\net8.0\1. Статистика на масив.dll
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\bin\Debug\net8.0\1. Статистика на масив.pdb
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\obj\Debug\net8.0\1. Статистика на масив.dll
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\obj\Debug\net8.0\refint\1. Статистика на масив.dll
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\obj\Debug\net8.0\1. Статистика на масив.pdb
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\obj\Debug\net8.0\1. Статистика на масив.genruntimeconfig.cache
+D:\Random Shit\VSShit\1. Статистика на масив\1. Статистика на масив\obj\Debug\net8.0\ref\1. Статистика на масив.dll

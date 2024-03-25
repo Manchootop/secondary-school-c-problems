@@ -1,0 +1,8 @@
+\\room309\V_Radeva\11 г\Радостин 22\masivi\1. Обработка на масив\1. Обработка на масив\bin\Debug\_1.Обработка_на_масив.exe.config
+\\room309\V_Radeva\11 г\Радостин 22\masivi\1. Обработка на масив\1. Обработка на масив\bin\Debug\_1.Обработка_на_масив.exe
+\\room309\V_Radeva\11 г\Радостин 22\masivi\1. Обработка на масив\1. Обработка на масив\bin\Debug\_1.Обработка_на_масив.pdb
+\\room309\V_Radeva\11 г\Радостин 22\masivi\1. Обработка на масив\1. Обработка на масив\obj\Debug\1. Обработка на масив.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Радостин 22\masivi\1. Обработка на масив\1. Обработка на масив\obj\Debug\1. Обработка на масив.csproj.SuggestedBindingRedirects.cache
+\\room309\V_Radeva\11 г\Радостин 22\masivi\1. Обработка на масив\1. Обработка на масив\obj\Debug\1. Обработка на масив.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Радостин 22\masivi\1. Обработка на масив\1. Обработка на масив\obj\Debug\_1.Обработка_на_масив.exe
+\\room309\V_Radeva\11 г\Радостин 22\masivi\1. Обработка на масив\1. Обработка на масив\obj\Debug\_1.Обработка_на_масив.pdb

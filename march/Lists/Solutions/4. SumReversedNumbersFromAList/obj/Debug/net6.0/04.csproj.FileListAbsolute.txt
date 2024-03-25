@@ -1,0 +1,15 @@
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\bin\Debug\net6.0\04.exe
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\bin\Debug\net6.0\04.deps.json
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\bin\Debug\net6.0\04.runtimeconfig.json
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\bin\Debug\net6.0\04.dll
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\bin\Debug\net6.0\04.pdb
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\obj\Debug\net6.0\04.csproj.AssemblyReference.cache
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\obj\Debug\net6.0\04.GeneratedMSBuildEditorConfig.editorconfig
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\obj\Debug\net6.0\04.AssemblyInfoInputs.cache
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\obj\Debug\net6.0\04.AssemblyInfo.cs
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\obj\Debug\net6.0\04.csproj.CoreCompileInputs.cache
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\obj\Debug\net6.0\04.dll
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\obj\Debug\net6.0\refint\04.dll
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\obj\Debug\net6.0\04.pdb
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\obj\Debug\net6.0\04.genruntimeconfig.cache
+\\ROOM309\V_Radeva\11 г\Елина 13\Листове\ListsTraversal\04\obj\Debug\net6.0\ref\04.dll
