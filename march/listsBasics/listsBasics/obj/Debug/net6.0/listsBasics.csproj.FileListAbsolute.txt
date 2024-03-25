@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\bin\Debug\net6.0\listsBasics.exe
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\bin\Debug\net6.0\listsBasics.deps.json
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\bin\Debug\net6.0\listsBasics.runtimeconfig.json
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\bin\Debug\net6.0\listsBasics.dll
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\bin\Debug\net6.0\listsBasics.pdb
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\obj\Debug\net6.0\listsBasics.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\obj\Debug\net6.0\listsBasics.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\obj\Debug\net6.0\listsBasics.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\obj\Debug\net6.0\listsBasics.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\obj\Debug\net6.0\listsBasics.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\obj\Debug\net6.0\listsBasics.dll
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\obj\Debug\net6.0\refint\listsBasics.dll
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\obj\Debug\net6.0\listsBasics.pdb
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\obj\Debug\net6.0\listsBasics.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsBasics\listsBasics\obj\Debug\net6.0\ref\listsBasics.dll

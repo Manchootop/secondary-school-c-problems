@@ -1,0 +1,14 @@
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\bin\Debug\net6.0\03.exe
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\bin\Debug\net6.0\03.deps.json
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\bin\Debug\net6.0\03.runtimeconfig.json
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\bin\Debug\net6.0\03.dll
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\bin\Debug\net6.0\03.pdb
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\obj\Debug\net6.0\03.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\obj\Debug\net6.0\03.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\obj\Debug\net6.0\03.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\obj\Debug\net6.0\03.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\obj\Debug\net6.0\03.dll
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\obj\Debug\net6.0\refint\03.dll
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\obj\Debug\net6.0\03.pdb
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\obj\Debug\net6.0\03.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\listsManipilation\03\obj\Debug\net6.0\ref\03.dll

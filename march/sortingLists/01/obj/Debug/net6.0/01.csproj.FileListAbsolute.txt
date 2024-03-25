@@ -1,0 +1,15 @@
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\bin\Debug\net6.0\01.exe
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\bin\Debug\net6.0\01.deps.json
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\bin\Debug\net6.0\01.runtimeconfig.json
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\bin\Debug\net6.0\01.dll
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\bin\Debug\net6.0\01.pdb
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\obj\Debug\net6.0\01.csproj.AssemblyReference.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\obj\Debug\net6.0\01.GeneratedMSBuildEditorConfig.editorconfig
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\obj\Debug\net6.0\01.AssemblyInfoInputs.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\obj\Debug\net6.0\01.AssemblyInfo.cs
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\obj\Debug\net6.0\01.csproj.CoreCompileInputs.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\obj\Debug\net6.0\01.dll
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\obj\Debug\net6.0\refint\01.dll
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\obj\Debug\net6.0\01.pdb
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\obj\Debug\net6.0\01.genruntimeconfig.cache
+\\room309\V_Radeva\11 г\Елина 13\Листове\sortingLists\01\obj\Debug\net6.0\ref\01.dll
